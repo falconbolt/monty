@@ -174,7 +174,7 @@ $ ./monty queue.m
 ```
 
 
-## Authors
+## Authors | Collaborators
 
 * **Cinnamon Akuoma** - [@Cinnamon-Akuoma](https://github.com/Cinnamon-Akuoma)
 
